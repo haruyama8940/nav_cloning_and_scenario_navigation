@@ -55,5 +55,7 @@ git clone https://github.com/haruyama8940/scenario_navigation_msgs.git
 ```
 git clone -b merge_scenario https://github.com/haruyama8940/intersection_detector.git
 ```
-
-
+* real_tsudanuma2-3_sim
+```
+git clone -b v2_light https://github.com/masakifujiwara1/real_tsudanuma2-3_sim
+```
