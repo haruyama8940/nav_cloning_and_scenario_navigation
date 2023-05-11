@@ -8,7 +8,9 @@
 * [intersection_detector](https://github.com/haruyama8940/intersection_detector)
 * [scenario_navigation](https://github.com/haruyama8940/scenario_navigation)
 * [orne_navigation](https://github.com/haruyama8940/orne_navigation)
-* [real_tsudanuma2-3_sim](https://github.com/masakifujiwara1/real_tsudanuma2-3_sim)
+* [real_tsudanuma2-3_sim](https://github.com/masakifujiwara1/real_tsudanuma2-3_sim)  
+動作例
+[![scenario21](https://github.com/haruyama8940/nav_cloning_and_scenario_navigation/assets/68257043/b27fe292-cf0d-4c94-9950-1872c99e8c6e)](https://www.youtube.com/watch?v=gTfmT61-wts)
 
 ## Install
 * system requirements
